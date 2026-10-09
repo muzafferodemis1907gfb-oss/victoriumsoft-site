@@ -1148,3 +1148,37 @@ body::before {
 .site-qr-card { align-items: flex-start; }
 .site-qr-card img { width: 96px; height: 96px; object-fit: contain; background: #fff; border-radius: 14px; padding: 7px; border: 1px solid rgba(255,255,255,.12); }
 @media (max-width: 640px) { .site-qr-card img { width: 112px; height: 112px; } }
+
+
+/* v10.1 live fixes */
+.mobile-menu {
+  visibility: hidden;
+  opacity: 0;
+  pointer-events: none;
+  overflow-y: auto;
+  overflow-x: hidden;
+}
+.mobile-menu.open {
+  visibility: visible;
+  opacity: 1;
+  pointer-events: auto;
+}
+
+/* Keep major headings inside their own layout space and avoid visual collisions. */
+.hero-copy,
+.section-head,
+.business-cta-panel,
+.tester-panel,
+.contact-panel,
+.legal-hero {
+  isolation: isolate;
+}
+.hero h1,
+.section-head h2,
+.business-cta-panel h2,
+.tester-copy h2,
+.contact-intro h2,
+.legal-hero h1 {
+  overflow-wrap: anywhere;
+  text-wrap: balance;
+}

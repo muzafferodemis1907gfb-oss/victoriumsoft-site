@@ -1,0 +1,18 @@
+{
+  "name": "VictoriumSoft Teknoloji ve Ar-Ge Limited Şirketi",
+  "short_name": "VictoriumSoft",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#05050b",
+  "theme_color": "#080611",
+  "icons": [
+    {
+      "src": "assets/victoriumsoft-logo.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ],
+  "description": "VictoriumSoft oyunlar, mobil uygulamalar ve teknoloji ürünleri.",
+  "scope": "/",
+  "id": "/"
+}

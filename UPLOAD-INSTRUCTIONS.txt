@@ -1,0 +1,20 @@
+VICTORIUMSOFT v10.1 PATCH
+
+Bu ZIP'in içindeki DOSYALARI GitHub repository kök dizinine yükleyin.
+ZIP dosyasının kendisini yüklemeyin.
+
+Repository:
+muzafferodemis1907gfb-oss/victoriumsoft-site
+
+GitHub:
+Add file > Upload files
+Bu ZIP'i bilgisayarınızda açın.
+İçindeki tüm dosyaları seçip repository köküne sürükleyin.
+Aynı isimli dosyalar varsa değişiklik olarak algılanacaktır.
+Commit changes ile kaydedin.
+
+Bu patch:
+- mobil menü yazı çakışmasını düzeltir
+- Hakkımızda / Gizlilik / Destek bağlantı sorunlarını düzeltir
+- detail.js ve project.js dosyalarını geri ekler
+- cache/service worker'ı yeniler

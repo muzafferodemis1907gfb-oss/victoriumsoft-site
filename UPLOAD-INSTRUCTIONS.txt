@@ -1,20 +1,21 @@
-VICTORIUMSOFT v10.1 PATCH
+VICTORIUMSOFT v11 - NAMAZAPP LIVE PATCH
 
-Bu ZIP'in içindeki DOSYALARI GitHub repository kök dizinine yükleyin.
-ZIP dosyasının kendisini yüklemeyin.
+Bu paket NamazApp'i Yakında bölümünden çıkarıp Google Play'de Yayınlananlar bölümüne taşır.
+Google Play: https://play.google.com/store/apps/details?id=com.victoriumsoft.namazapp
 
-Repository:
-muzafferodemis1907gfb-oss/victoriumsoft-site
+GitHub repository: muzafferodemis1907gfb-oss/victoriumsoft-site
 
-GitHub:
-Add file > Upload files
-Bu ZIP'i bilgisayarınızda açın.
-İçindeki tüm dosyaları seçip repository köküne sürükleyin.
-Aynı isimli dosyalar varsa değişiklik olarak algılanacaktır.
-Commit changes ile kaydedin.
+Yükleme:
+1. Bu ZIP'i bilgisayarda açın.
+2. İçindeki dosya ve klasörleri repository köküne sürükleyin.
+3. Aynı isimli dosyaları değiştirin ve Commit changes yapın.
+4. Vercel bağlıysa otomatik deploy olur.
+5. CNAME eklemeyin; domain Vercel DNS ile çalışıyor.
 
-Bu patch:
-- mobil menü yazı çakışmasını düzeltir
-- Hakkımızda / Gizlilik / Destek bağlantı sorunlarını düzeltir
-- detail.js ve project.js dosyalarını geri ekler
-- cache/service worker'ı yeniler
+Değişiklikler:
+- NamazApp Published / Production bölümüne taşındı.
+- Yakında listesi 4'ten 3'e indi.
+- Yayındaki ürün sayısı 5'ten 6'ya çıktı.
+- NamazApp için doğrudan Google Play butonu eklendi.
+- NamazApp ikon kartı, release hub ve published logo alanına eklendi.
+- Service Worker cache sürümü yenilendi.

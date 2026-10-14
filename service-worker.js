@@ -1,4 +1,4 @@
-const CACHE_NAME = 'victoriumsoft-v10-1';
+const CACHE_NAME = 'victoriumsoft-v11-namazapp-live';
 const STATIC_ASSETS = [
   '/',
   '/index.html',
@@ -10,10 +10,12 @@ const STATIC_ASSETS = [
   '/privacy.html',
   '/support.html',
   '/project.html',
+  '/apps/namaz-app.html',
   '/404.html',
   '/site.webmanifest',
   '/assets/victoriumsoft-logo.png',
-  '/assets/victoriumsoft-brand-poster.png'
+  '/assets/victoriumsoft-brand-poster.png',
+  '/assets/apps/published/namaz-app-icon.png'
 ];
 
 self.addEventListener('install', event => {

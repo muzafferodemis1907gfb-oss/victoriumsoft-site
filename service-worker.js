@@ -1,4 +1,4 @@
-const CACHE_NAME = 'victoriumsoft-v11-namazapp-live';
+const CACHE_NAME = 'victoriumsoft-v12';
 const STATIC_ASSETS = [
   '/',
   '/index.html',

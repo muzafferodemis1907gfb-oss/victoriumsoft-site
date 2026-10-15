@@ -1,0 +1,14 @@
+GitHub root dizininden şu gereksiz kopyaları silebilirsin:
+maze-of-fate.html
+okeyv.html
+pokervix.html
+pukzio.html
+puzzleonx.html
+qubrift.html
+stakvio.html
+utopiax-oracle.html
+varnyx.html
+maze-of-fate-icon.png
+qubrift-icon.png
+
+Doğru kopyalar apps/ ve assets/apps/published/ altında duruyor.

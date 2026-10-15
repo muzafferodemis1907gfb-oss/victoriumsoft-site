@@ -1,0 +1,1 @@
+Visual fixes patch for VictoriumSoft site.

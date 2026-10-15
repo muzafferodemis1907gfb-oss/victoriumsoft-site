@@ -1,10 +1,18 @@
-VictoriumSoft v13 PATCH
+VictoriumSoft v14 — Play Console senkronizasyonu
 
-Bu ZIP'in içindeki dosyaları GitHub'daki victoriumsoft-site reposuna aynı klasör yapısıyla yükleyin ve Commit changes yapın.
+GitHub victoriumsoft-site reposuna bu ZIP'in İÇİNDEKİ dosya/klasörleri yükleyin.
 
-Değişiklikler:
-- Maze of Fate: Google Play test sürecinde · yakında yayında
-- Qubrift: Google Play test sürecinde · yakında yayında
-- Yakında bölümü: "TESTTE · YAKINDA" durumuna güncellendi
-- Ana sayfa: 7 ürün yayında · 2 oyun Google Play testinde
-- Detay sayfaları: üretim erişimi tamamlandı, test sürüyor bilgisi eklendi
+Üretim:
+- Maze of Fate
+- QUBRIFT
+
+Kapalı test · yakında yayında:
+- OkeyV: 101 Okey & Okey
+- POKERVIX Poker
+- Pukzio: Air Hockey
+- PuzzleonX
+- STAKVIO
+- UtopiaX Oracle
+- VARNYX
+
+Ekran görüntülerinde görünmeyen satırlar hakkında varsayım yapılmadı.

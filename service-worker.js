@@ -1,4 +1,4 @@
-const CACHE_NAME = 'victoriumsoft-v13';
+const CACHE_NAME = 'victoriumsoft-v14';
 const STATIC_ASSETS = [
   '/',
   '/index.html',

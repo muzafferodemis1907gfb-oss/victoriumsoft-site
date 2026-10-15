@@ -1191,3 +1191,13 @@ body::before {
     radial-gradient(circle at 75% 70%, rgba(168,85,247,.20), transparent 42%),
     linear-gradient(145deg, #0b1020, #12091d 72%);
 }
+
+/* v14 Play Console status cards */
+.test-status-strip{display:flex;align-items:center;gap:10px;flex-wrap:wrap;margin:0 0 22px;padding:14px 18px;border:1px solid rgba(168,85,247,.2);border-radius:18px;background:rgba(168,85,247,.055);color:#d8cbea}
+.test-status-strip strong{font-size:13px}.test-status-strip>span:last-child{color:var(--muted);font-size:12px}
+.testing-grid{grid-template-columns:repeat(3,1fr)}
+.testing-card .testing-art{min-height:220px;display:flex;flex-direction:column;align-items:center;justify-content:center;gap:18px;background:radial-gradient(circle at 50% 35%,rgba(168,85,247,.20),transparent 36%),linear-gradient(145deg,rgba(255,255,255,.045),rgba(255,255,255,.012))}
+.testing-emblem{width:92px;height:92px;border-radius:26px;display:grid;place-items:center;font-size:25px;font-weight:950;letter-spacing:-.04em;color:#fff;border:1px solid rgba(255,255,255,.14);background:linear-gradient(145deg,rgba(168,85,247,.28),rgba(64,35,115,.35));box-shadow:0 18px 50px rgba(0,0,0,.28),inset 0 0 30px rgba(255,255,255,.035)}
+.testing-card .store-pill{position:static;max-width:calc(100% - 32px);text-align:center;line-height:1.3}
+.test-package{display:block;margin-top:12px;color:#8d829a;font-size:11px;line-height:1.4;overflow-wrap:anywhere}
+@media(max-width:980px){.testing-grid{grid-template-columns:repeat(2,1fr)}}@media(max-width:640px){.testing-grid{grid-template-columns:1fr}}

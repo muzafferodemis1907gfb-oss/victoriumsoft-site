@@ -1,0 +1,90 @@
+{
+  "cleanUrls": false,
+  "redirects": [
+    {
+      "source": "/arcpitch.html",
+      "destination": "/apps/arcpitch.html",
+      "permanent": true
+    },
+    {
+      "source": "/balloon-pop.html",
+      "destination": "/apps/balloon-pop.html",
+      "permanent": true
+    },
+    {
+      "source": "/ekim-dostum.html",
+      "destination": "/apps/ekim-dostum.html",
+      "permanent": true
+    },
+    {
+      "source": "/orbcascade.html",
+      "destination": "/apps/orbcascade.html",
+      "permanent": true
+    },
+    {
+      "source": "/pomodorox.html",
+      "destination": "/apps/pomodorox.html",
+      "permanent": true
+    },
+    {
+      "source": "/namaz-app.html",
+      "destination": "/apps/namaz-app.html",
+      "permanent": true
+    },
+    {
+      "source": "/water-reminder.html",
+      "destination": "/apps/water-reminder.html",
+      "permanent": true
+    },
+    {
+      "source": "/maze-of-fate.html",
+      "destination": "/apps/maze-of-fate.html",
+      "permanent": true
+    },
+    {
+      "source": "/qubrift.html",
+      "destination": "/apps/qubrift.html",
+      "permanent": true
+    },
+    {
+      "source": "/okeyv.html",
+      "destination": "/apps/okeyv.html",
+      "permanent": true
+    },
+    {
+      "source": "/pokervix.html",
+      "destination": "/apps/pokervix.html",
+      "permanent": true
+    },
+    {
+      "source": "/pukzio.html",
+      "destination": "/apps/pukzio.html",
+      "permanent": true
+    },
+    {
+      "source": "/puzzleonx.html",
+      "destination": "/apps/puzzleonx.html",
+      "permanent": true
+    },
+    {
+      "source": "/stakvio.html",
+      "destination": "/apps/stakvio.html",
+      "permanent": true
+    },
+    {
+      "source": "/utopiax-oracle.html",
+      "destination": "/apps/utopiax-oracle.html",
+      "permanent": true
+    },
+    {
+      "source": "/varnyx.html",
+      "destination": "/apps/varnyx.html",
+      "permanent": true
+    },
+    {
+      "source": "/meravix.html",
+      "destination": "/apps/meravix.html",
+      "permanent": true
+    }
+  ]
+}
